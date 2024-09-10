@@ -1,0 +1,36 @@
+body{
+    background-color: aliceblue;
+    margin: 0px;
+    
+}
+div{
+    text-align: center;
+}
+img{
+    border: 2px solid;
+    border-radius: 10px;
+}
+nav a{
+    color: black;
+    text-decoration: none;
+    display: inline;
+    padding: 20px;
+    transition: 1s;
+}
+nav a:hover{
+    transition: 0.65s;
+    text-decoration: underline;
+    font-size: 1.05rem;
+}
+#inicio{
+    padding-left: 0px;
+}
+nav{
+    background-color: cornflowerblue;
+    color: black;
+    padding: 12px;
+}
+article{
+    margin-left: 20px;
+    margin-right: 20px;
+}
